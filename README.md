@@ -30,11 +30,11 @@ To explore the project, download the repository and run the Jupyter Notebook (mp
 - search.py: Implements the search tree.
 - module_tester.py: Contains tests for the modules.
   
-**1. Clone the repository:
+1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/loan-analysis-project.git
 
-**2. Navigate to the project directory and run the Jupyter Notebook:
+2. Navigate to the project directory and run the Jupyter Notebook:
 ```bash
 jupyter notebook mp2.ipynb
 
