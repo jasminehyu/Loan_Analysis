@@ -17,3 +17,8 @@ Lending discrimination based on factors like race has a long history, and this a
    - search.py: Implements a binary search tree for fast data retrieval.
 - Testing: Used module_tester.py to validate the functionality of different components.
 - Visualizations: Created plots to visualize patterns in loan approvals, interest rates, and applicant demographics.
+
+## Results
+- Interest Rate Trends: Found variations in interest rates among different banks, identifying trends and potential biases.
+- Loan Applicant Insights: Highlighted the demographics of loan applicants, including age distribution and racial identities.
+- Data Structure Efficiency: Demonstrated the efficiency of binary search trees for analyzing large datasets.
