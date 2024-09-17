@@ -1,4 +1,5 @@
 # Loan Analysis Project
+![loan](./images.jpg)
 ## Overview
 This project analyzes loan applications in Wisconsin for the year 2020, focusing on patterns in lending practices. It aims to identify and address potential disparities in loan approvals and interest rates using publicly available data from the Home Mortgage Disclosure Act (HDMA).
 
