@@ -32,7 +32,7 @@ To explore the project, download the repository and run the Jupyter Notebook (mp
   
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/loan-analysis-project.git
+git clone https://github.com/jasminehyu/Loan_Analysis.git
 ```
 2. Navigate to the project directory and run the Jupyter Notebook:
 ```bash
