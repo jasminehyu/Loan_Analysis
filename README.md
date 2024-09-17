@@ -13,7 +13,7 @@ Lending discrimination based on factors like race has a long history, and this a
 ## Project Structure
 - Data Preprocessing: Cleaned and organized the raw loan data for analysis.
 - Modules:
--- loans.py: Defines the Loan and Applicant classes to model the dataset.
--- search.py: Implements a binary search tree for fast data retrieval.
+   - loans.py: Defines the Loan and Applicant classes to model the dataset.
+   - search.py: Implements a binary search tree for fast data retrieval.
 - Testing: Used module_tester.py to validate the functionality of different components.
 - Visualizations: Created plots to visualize patterns in loan approvals, interest rates, and applicant demographics.
